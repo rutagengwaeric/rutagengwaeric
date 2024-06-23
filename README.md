@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👨‍💻 All of my projects are available at [clarocreatives.com](clarocreatives.com)
+- 👨‍💻 All of my projects are available at [clarocreatives.com](https://clarocreatives.com)
 
 - 💬 Ask me about **Laravel | Livewire | Tailwind**
 

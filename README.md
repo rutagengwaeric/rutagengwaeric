@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutagengwa Eric</h1>
-<h3 align="center">Hey there! I'm Rutagengwa Eric, a software developer who loves turning ideas into reality through code. I have a strong foundation in programming and a knack for building innovative solutions that make life easier. Whether it's a web application, a mobile app, or a backend system, I pour my heart into crafting high-quality software that users love.</h3>
+<h3 align="center">I'm a passionate software developer with a keen interest in building innovative and efficient solutions. With a strong foundation in various programming languages and frameworks, I strive to deliver high-quality software that meets user needs and exceeds expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutagengwaeric&label=Profile%20views&color=0e75b6&style=flat" alt="rutagengwaeric" /> </p>
 

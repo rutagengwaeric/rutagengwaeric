@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [Roadready](https://roadready.rw)
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Mern Stack **
 
-- 👨‍💻 All of my projects are available at [clarocreatives.com](https://clarocreatives.com)
-
-- 💬 Ask me about **Laravel | Livewire | Tailwind**
+- 💬 Ask me about **Laravel | Livewire | Tailwind | Go Lang | React **
 
 - 📫 How to reach me **rutagengwaeric250@gmail.com**
 

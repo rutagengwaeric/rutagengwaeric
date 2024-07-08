@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rutage_eric" target="blank"><img src="https://img.shields.io/twitter/follow/rutage_eric?logo=twitter&style=for-the-badge" alt="rutage_eric" /></a> </p>
 
-- 🔭 I’m currently working on [Roadready](https://roadready.rw)
 
-- 🌱 I’m currently learning **Mern Stack **
-
-- 💬 Ask me about **Laravel | Livewire | Tailwind | Go Lang | React **
-
-- 📫 How to reach me **rutagengwaeric250@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

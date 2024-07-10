@@ -7,8 +7,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/rutage_eric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutage_eric" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rutagengwa-eric-2417192a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutagengwa-eric-2417192a3" height="30" width="40" /></a>
 <a href="https://instagram.com/rut._eric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rut._eric" height="30" width="40" /></a>

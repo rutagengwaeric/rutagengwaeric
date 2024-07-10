@@ -35,9 +35,15 @@
 <hr/>
 <br/>
 
+<p align="center">
+  <a href="https://github.com/rutagengwaeric">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutagengwaeric&theme=radical&border=7F3FBF&background=0D1117" alt="Eric's GitHub streak"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutagengwaeric&show_icons=true&locale=en&layout=compact" alt="rutagengwaeric" /></p>
+<p align="center">
+  <a href="https://github.com/rutagengwaeric">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rutagengwaeric&theme=radical" alt="Eric's GitHub Contribution"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutagengwaeric&show_icons=true&locale=en" alt="rutagengwaeric" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutagengwaeric&" alt="rutagengwaeric" /></p>

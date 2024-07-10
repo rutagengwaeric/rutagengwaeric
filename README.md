@@ -14,15 +14,19 @@
 <a href="https://instagram.com/rut._eric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rut._eric" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,html,css,javascript,tailwind,react,vuejs,nodejs,figma,mysql,postman,sass" />
-  </a>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=laravel,php,html,css,javascript,tailwind,react,vuejs,nodejs,figma,mysql,postman,sass,vscode&perline=7" />
+</a>
 </p>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutagengwaeric&show_icons=true&locale=en&layout=compact" alt="rutagengwaeric" /></p>
 

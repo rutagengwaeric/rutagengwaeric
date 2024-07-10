@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rutagengwa Eric</h1>
 <h3 align="center">I'm a passionate software developer with a keen interest in building innovative and efficient solutions. With a strong foundation in various programming languages and frameworks, I strive to deliver high-quality software that meets user needs and exceeds expectations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutagengwaeric&label=Profile%20views&color=0e75b6&style=flat" alt="rutagengwaeric" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rutagengwaeric&label=Profile%20views&color=0e75b6&style=flat" alt="rutagengwaeric" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rutage_eric" target="blank"><img src="https://img.shields.io/twitter/follow/rutage_eric?logo=twitter&style=for-the-badge" alt="rutage_eric" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rutage_eric" target="blank"><img src="https://img.shields.io/twitter/follow/rutage_eric?logo=twitter&style=for-the-badge" alt="rutage_eric" /></a> </p>
 
 
 

@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://committers.top/rwanda_private/rutagengwaeric">
+  <a href="[https://committers.top/rwanda_private/rutagengwaeric](https://committers.top/rwanda_private#rutagengwaeric)">
     <img src="https://user-badge.committers.top/rwanda_private/rutagengwaeric.svg" alt="committers.top rank — Rwanda" />
   </a>
 </p>

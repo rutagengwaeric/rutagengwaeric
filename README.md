@@ -3,11 +3,20 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rutagengwaeric&label=Profile%20views&color=0e75b6&style=flat" alt="rutagengwaeric" /> </p>
 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/rutage_eric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutage_eric" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rutagengwa-eric-2417192a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutagengwa-eric-2417192a3" height="30" width="40" /></a>
 <a href="https://instagram.com/_rut.eric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rut._eric" height="30" width="40" /></a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://committers.top/rwanda_private/rutagengwaeric">
+    <img src="https://user-badge.committers.top/rwanda_private/rutagengwaeric.svg" alt="committers.top rank — Rwanda" />
+  </a>
 </p>
 
 <br/>

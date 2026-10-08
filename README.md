@@ -36,5 +36,5 @@ I build reliable, scalable web applications, from database design and APIs throu
   <img src="https://streak-stats.demolab.com/?user=rutagengwaeric&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 <hr/>
-<p align="center">Open to collaboration and new opportunities — feel free to reach out on <a href="https://linkedin.com/in/rutagengwa-eric-2417192a3">LinkedIn</a>.</p>
+<p align="center">Open to collaboration and new opportunities, feel free to reach out on <a href="https://linkedin.com/in/rutagengwa-eric-2417192a3">LinkedIn</a>.</p>
  
